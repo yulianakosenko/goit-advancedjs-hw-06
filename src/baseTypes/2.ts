@@ -1,5 +1,7 @@
-let anything = -20;
-anything = 'Text';
-anything = {};
+// Перетворіть цей код на TypeScript, вказавши відповідні типи для всіх змінних.
 
-export {};
+export { };
+
+let anything: any = -20;
+anything = "Text";
+anything = {};
